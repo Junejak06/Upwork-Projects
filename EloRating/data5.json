@@ -1,0 +1,739 @@
+[
+    {
+        "licence_id": "OF0083296",
+        "company_name": "WINCANTON GROUP LIMITED",
+        "business_type": "Limited Company",
+        "trading_names": "Not provided",
+        "directors_list": [
+            "JAMES WROATH",
+            "LYN COLLOFF",
+            "SALLY AUSTIN",
+            "TOM HINTON"
+        ],
+        "licence_type": "Standard International",
+        "licence_status": "Valid",
+        "continuation_date": "31/03/2025",
+        "traffic_area": "East of England",
+        "address": "WINCANTON FLEET SERVICES, PO BOX 1631, DONCASTER, DN1 9XB, GB",
+        "heavy_goods_vehicles": "70",
+        "light_goods_vehicles": "0",
+        "total_trailers": "3072",
+        "operating_centres_dic": [
+            {
+                "operating_centre": "C/O TEXACO LIMITED, SERVICES COMPOUND, OLIVER ROAD, GRAYS, RM20 3ED, GB",
+                "heavy_goods_vehicles": "12",
+                "trailers": "12"
+            },
+            {
+                "operating_centre": "BRITVIC NATIONAL DIST CENTRE, WELLINGTON PARK WAY, MAGNA PARK, LUTTERWORTH, LE17 4XW, GB",
+                "heavy_goods_vehicles": "7",
+                "trailers": "10"
+            },
+            {
+                "operating_centre": "C/O ARGOS DISTRIBUTION CENTRE, MILES GRAY ROAD, PIPPS HILL, BASILDON, SS14 3FF, GB",
+                "heavy_goods_vehicles": "150",
+                "trailers": "200"
+            },
+            {
+                "operating_centre": "CHESTMINSTER LTD, BRIDGEFIELDS, WELWYN GARDEN CITY, AL7 1RX, GB",
+                "heavy_goods_vehicles": "0",
+                "trailers": "10"
+            },
+            {
+                "operating_centre": "C/O THE WELCH GROUP, 27 ROYSTON ROAD, FOXTON, CAMBRIDGE, CB2 6SE, GB",
+                "heavy_goods_vehicles": "4",
+                "trailers": "3"
+            },
+            {
+                "operating_centre": "C/O Q8 LTD, KINGS LYNN STORAGE, ESTUARY ROAD, KING'S LYNN, PE30 2HH, GB",
+                "heavy_goods_vehicles": "1",
+                "trailers": "1"
+            },
+            {
+                "operating_centre": "J SAINSBURY PLC, DISTRIBUTION DEPOT, LONDON ROAD, BUNTINGFORD, SG9 9JR, GB",
+                "heavy_goods_vehicles": "120",
+                "trailers": "150"
+            },
+            {
+                "operating_centre": "P & O TRANS EUROPEAN LTD, TUNNEL INDUSTRIAL ESTATE, EASTERN AVENUE, WEST THURROCK, GRAYS, RM20 3LW, GB",
+                "heavy_goods_vehicles": "95",
+                "trailers": "120"
+            },
+            {
+                "operating_centre": "UNIT 3210 WELLINGTON PARKWAY, MAGNA PARK, LUTTERWORTH, LE17 4XW, GB",
+                "heavy_goods_vehicles": "35",
+                "trailers": "40"
+            },
+            {
+                "operating_centre": "UNIT 2, BANGRAVE ROAD SOUTH, MAXPARK, CORBY, NN17 1NN, GB",
+                "heavy_goods_vehicles": "100",
+                "trailers": "160"
+            },
+            {
+                "operating_centre": "COMET GROUP PLC, RIVERWAY DISTRIBUTION CENTRE, RIVER WAY, HARLOW, CM20 2EY, GB",
+                "heavy_goods_vehicles": "95",
+                "trailers": "100"
+            },
+            {
+                "operating_centre": "UNIT A (1&2), ROYAL OAK WAY NORTH, ROYAL OAK INDUSTRIAL ESTATE, DAVENTRY, NN11 8LR, GB",
+                "heavy_goods_vehicles": "30",
+                "trailers": "110"
+            },
+            {
+                "operating_centre": "BRITVIC/ROBINSONS SOFT DRINKS, CARROW, NORWICH, NR1 2DD, GB",
+                "heavy_goods_vehicles": "15",
+                "trailers": "25"
+            },
+            {
+                "operating_centre": "UNIT 1, MITCHELL ROAD, CORBY, NN17 5QT, GB",
+                "heavy_goods_vehicles": "1",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "WINCANTON GROUP LIMITED, GLENDON ROAD, NORTH KETTERING BUSINESS PARK, KETTERING, NN14 1UB, GB",
+                "heavy_goods_vehicles": "100",
+                "trailers": "250"
+            },
+            {
+                "operating_centre": "C/O PETROPLUS, WEST SITE VEHICLE PARK, BARKER BOULEVARD, CORYTON, STANFORD-LE-HOPE, SS17 9GB, GB",
+                "heavy_goods_vehicles": "42",
+                "trailers": "42"
+            },
+            {
+                "operating_centre": "C/O VOPAC TERMINAL, LONDON LTD, OLIVER ROAD, WEST THURROCK, GRAYS, RM20 3EY, GB",
+                "heavy_goods_vehicles": "12",
+                "trailers": "12"
+            },
+            {
+                "operating_centre": "LANSDOWNE DISTRIBUTION LTD, EAST ANGLIA FREIGHT TERMINAL, PARKER AVENUE, FELIXSTOWE, IP11 4HF, GB",
+                "heavy_goods_vehicles": "50",
+                "trailers": "50"
+            },
+            {
+                "operating_centre": "CO-OPERATIVE RETAIL LOGISTICS , UNIT 1 CARDINAL PARK, CARDINAL WAY, GODMANCHESTER, HUNTINGDON, PE29 2XN, GB",
+                "heavy_goods_vehicles": "95",
+                "trailers": "75"
+            },
+            {
+                "operating_centre": "EXEL, C/O SOMERFIELD STORES, DISTRIBUTION DEPOT, WASHINGLEY ROAD, HUNTINGDON, PE29 6SY, GB",
+                "heavy_goods_vehicles": "130",
+                "trailers": "140"
+            },
+            {
+                "operating_centre": "MCCONNELL DRIVE, STRATFORD ROAD, WOLVERTON, MILTON KEYNES, MK12 5LJ, GB",
+                "heavy_goods_vehicles": "44",
+                "trailers": "44"
+            },
+            {
+                "operating_centre": "REDLAND, GIBBET LANE, SHAWELL, LUTTERWORTH, LE17 6AA, GB",
+                "heavy_goods_vehicles": "10",
+                "trailers": "15"
+            },
+            {
+                "operating_centre": "HANSON BRICK, STEWARTBY WORKS, BEDFORD, MK43 9LZ, GB",
+                "heavy_goods_vehicles": "40",
+                "trailers": "40"
+            },
+            {
+                "operating_centre": "CROSSACRE/WEARSIDE LTD, OLD KENNY TRANSPORT DEPT, OXNEY ROAD, PETERBOROUGH, PE1 5YP, GB",
+                "heavy_goods_vehicles": "35",
+                "trailers": "35"
+            },
+            {
+                "operating_centre": "C/O IBSTOCK BUILDING PRODUCTS, WHITEHILL ROAD, ELLISTOWN, COALVILLE, LE67 1HY, GB",
+                "heavy_goods_vehicles": "3",
+                "trailers": "3"
+            },
+            {
+                "operating_centre": "HANSON BRICK LTD, MILL LANE, HEATHER, IBSTOCK, COALVILLE, LE67 2QE, GB",
+                "heavy_goods_vehicles": "13",
+                "trailers": "13"
+            },
+            {
+                "operating_centre": "IBSTOCK BUILDING PRODUCTS, LEICESTER ROAD, IBSTOCK, LE67 6HS, GB",
+                "heavy_goods_vehicles": "20",
+                "trailers": "20"
+            },
+            {
+                "operating_centre": "REDLAND, VANDYKE WORKS, MILETREE ROAD, LEIGHTON BUZZARD, LU7 9LA, GB",
+                "heavy_goods_vehicles": "16",
+                "trailers": "12"
+            },
+            {
+                "operating_centre": "C/O BRETT LANDSCAPING, CODHAM HALL DISTRIBUTION CENTRE, CODHAM HALL, GREAT WARLEY, BRENTWOOD, CM13 3JT, GB",
+                "heavy_goods_vehicles": "5",
+                "trailers": "10"
+            },
+            {
+                "operating_centre": "C/O COMET NDC, LONG CROFT ROAD, CORBY, NN18 8EY, GB",
+                "heavy_goods_vehicles": "25",
+                "trailers": "135"
+            },
+            {
+                "operating_centre": "SHELL GAS LTD, ROAD TERMINAL SITE, SHELL REFINERY NO 4 GATE, CORYTON, SS17 9LP, GB",
+                "heavy_goods_vehicles": "6",
+                "trailers": "6"
+            },
+            {
+                "operating_centre": "SAINSBURYS PLC, PINEHAM WAY, SWAN VALLEY, NORTHAMPTON, NN4 9BX, GB",
+                "heavy_goods_vehicles": "250",
+                "trailers": "360"
+            },
+            {
+                "operating_centre": "WINCANTON, NAYSMITH ROAD (OFF BRUNEL CLOSE), DRAYTON FIELDS IND ESTATE, DAVENTRY, NN11 8NF, GB",
+                "heavy_goods_vehicles": "50",
+                "trailers": "56"
+            },
+            {
+                "operating_centre": "C/O EUROHUB , SITE 2 LONG CROFT ROAD, CORBY, NN18 8EY, GB",
+                "heavy_goods_vehicles": "20",
+                "trailers": "30"
+            },
+            {
+                "operating_centre": "PORT OF TILBURY LONDON LTD, LESLIE FORD HOUSE, TILBURY, RM18 7EH, GB",
+                "heavy_goods_vehicles": "60",
+                "trailers": "60"
+            },
+            {
+                "operating_centre": "PETROPLUS,, UK BULK TERMINAL, CORYTON, STANFORD-LE-HOPE, SS17 9LQ, GB",
+                "heavy_goods_vehicles": "12",
+                "trailers": "10"
+            },
+            {
+                "operating_centre": "SHELL GAS LIMITED, MANOR WAY, CORYTON, STANFORD-LE-HOPE, SS17 9LW, GB",
+                "heavy_goods_vehicles": "13",
+                "trailers": "10"
+            },
+            {
+                "operating_centre": "PANASONIC LOGISTICS CO. LIMITED, GOWERTON ROAD, BRACKMILLS INDUSTRIAL ESTATE, NORTHAMPTON, NN4 7BW, GB",
+                "heavy_goods_vehicles": "100",
+                "trailers": "200"
+            },
+            {
+                "operating_centre": "BUILDING 771 & PLOT 5040, ALCONBURY AIRFIELD, ALCONBURY, HUNTINGDON, PE28 4WX, GB",
+                "heavy_goods_vehicles": "138",
+                "trailers": "228"
+            },
+            {
+                "operating_centre": "NORWICH ROAD, WATTON, THETFORD, IP25 6JB, GB",
+                "heavy_goods_vehicles": "50",
+                "trailers": "40"
+            },
+            {
+                "operating_centre": "UNIT A, RD PARK, RATTYS LANE, HODDESDON, EN11 0RF, GB",
+                "heavy_goods_vehicles": "70",
+                "trailers": "60"
+            },
+            {
+                "operating_centre": "E. & S.J. WALPOLE LIMITED, GREENS ROAD, DEREHAM, NR20 3TG, GB",
+                "heavy_goods_vehicles": "1",
+                "trailers": "1"
+            },
+            {
+                "operating_centre": "FORTICRETE LIMITED, FACTORY ROAD 3, BOSS AVENUE, LEIGHTON BUZZARD, LU7 4SD, GB",
+                "heavy_goods_vehicles": "8",
+                "trailers": "8"
+            },
+            {
+                "operating_centre": "CORYTON COMMERCIALS LTD, ARTERIAL ROAD, PURFLEET, RM19 1TS, GB",
+                "heavy_goods_vehicles": "28",
+                "trailers": "28"
+            },
+            {
+                "operating_centre": "B & Q LUTON, LAPORTE RETAIL PARK, DALLOW ROAD, LUTON, LU1 1HJ, GB",
+                "heavy_goods_vehicles": "5",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "FURNELLS TRANSPORT  ENTERPRISE HOUSE, MAXTED ROAD, HEMEL HEMPSTEAD INDUSTRIAL ESTATE, HEMEL HEMPSTEAD, HP2 7BT, GB",
+                "heavy_goods_vehicles": "1",
+                "trailers": "1"
+            },
+            {
+                "operating_centre": "PULLMAN FLEET SERVICES, MOTHERWELL WAY, GRAYS, RM20 3XD, GB",
+                "heavy_goods_vehicles": "20",
+                "trailers": "20"
+            },
+            {
+                "operating_centre": "UNIT 1, CRANES CLOSE, BASILDON, SS14 3JB, GB",
+                "heavy_goods_vehicles": "30",
+                "trailers": "40"
+            },
+            {
+                "operating_centre": "1056 DEER PARK ROAD, MOULTON PARK INDUSTRIAL ESTATE, NORTHAMPTON, NN3 6RX, GB",
+                "heavy_goods_vehicles": "25",
+                "trailers": "10"
+            },
+            {
+                "operating_centre": "PROCTOR & GAMBLE LONDON SITE, HEDLEY AVENUE, GRAYS, RM20 4AL, GB",
+                "heavy_goods_vehicles": "10",
+                "trailers": "20"
+            },
+            {
+                "operating_centre": "4 OLD PARKBURY LANE, COLNEY STREET, ST. ALBANS, AL2 2DZ, GB",
+                "heavy_goods_vehicles": "13",
+                "trailers": "30"
+            },
+            {
+                "operating_centre": "WISSINGTON SUGAR FACTORY, COLLEGE ROAD, WISSINGTON, KING'S LYNN, PE33 9QG, GB",
+                "heavy_goods_vehicles": "25",
+                "trailers": "45"
+            },
+            {
+                "operating_centre": "5-7 OLD PARKBURY LANE, COLNEY STREET, ST. ALBANS, AL2 2DZ, GB",
+                "heavy_goods_vehicles": "14",
+                "trailers": "1"
+            },
+            {
+                "operating_centre": "B & Q DISS, UNIT 22-23 , HOPPER WAY, DISS, IP22 4GT, GB",
+                "heavy_goods_vehicles": "7",
+                "trailers": "1"
+            },
+            {
+                "operating_centre": "ANDERSON COMMERCIAL UNIT 2, SOUTH LEICESTER INDUSTRIAL ESTATE, BEVERIDGE LANE, ELLISTOWN, COALVILLE, LE67 1FB, GB",
+                "heavy_goods_vehicles": "10",
+                "trailers": "10"
+            },
+            {
+                "operating_centre": "NISSAN UK LTD, HUNTER BOULEVARD, MAGNA PARK, LUTTERWORTH, LE17 4XN, GB",
+                "heavy_goods_vehicles": "30",
+                "trailers": "60"
+            },
+            {
+                "operating_centre": "EM TRANSPORT, SCOTLAND INDUSTRIAL ESTATE, LONDON ROAD, COALVILLE, LE67 3JJ, GB",
+                "heavy_goods_vehicles": "4",
+                "trailers": "4"
+            },
+            {
+                "operating_centre": "HANSON CONCRETE, NEWTOWN LINFORD LANE, GROBY, LEICESTER, LE6 0HF, GB",
+                "heavy_goods_vehicles": "8",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "HANSON CONCRETE, OLD WOLVERTON ROAD, WOLVERTON, MILTON KEYNES, MK12 5QP, GB",
+                "heavy_goods_vehicles": "5",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "HANSON CONCRETE UK LTD, COSGROVE WAY, LUTON, LU1 1XL, GB",
+                "heavy_goods_vehicles": "6",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "HANSON CONCRETE, TURN POINT, SANDY ROAD, BEDFORD, MK44 3TP, GB",
+                "heavy_goods_vehicles": "3",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "HANSON CONTRETE, PRTCHLEY LODGE |ROAD, HIGHFIELD ROAD, KETTERING, NN15 6JR, GB",
+                "heavy_goods_vehicles": "3",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "HANSEN CONCRETE, COLDHAMS LANE, CAMBRIDGE, CB1 3HS, GB",
+                "heavy_goods_vehicles": "4",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "HANSONS CONCRETE, KEDINGTON ROAD, STURMER, HAVERHILL, CB9 7XR, GB",
+                "heavy_goods_vehicles": "2",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "HANSON CONCRETE, ROUNDBLUSH CORNER, MAIDEN ROAD, LAYER MARNEY, COLCHESTER, CO5 9XE, GB",
+                "heavy_goods_vehicles": "3",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "HANSON CONCRETE, BEACONSFIELD, SPRINGFIELD FARM QUARRY, BROAD LANE, BEACONSFIELD, HP9 1XD, GB",
+                "heavy_goods_vehicles": "2",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "UNIT 7, BADGERS RISE, MARSTON GATE LOGISTICS PARK, RIDGMONT, BEDFORD, MK43 0YL, GB",
+                "heavy_goods_vehicles": "14",
+                "trailers": "1"
+            },
+            {
+                "operating_centre": "1-2 SCIMITAR PARK, ROYDON ROAD, HARLOW, CM19 5GU, GB",
+                "heavy_goods_vehicles": "22",
+                "trailers": "2"
+            },
+            {
+                "operating_centre": "ACREWOOD WAY, ST. ALBANS, AL4 0JY, GB",
+                "heavy_goods_vehicles": "5",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "CLARENDON WAY, COLCHESTER, CO1 1XF, GB",
+                "heavy_goods_vehicles": "5",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "SWORD DRIVE, HINCKLEY, LE10 0GL, GB",
+                "heavy_goods_vehicles": "4",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "ST. PETERS ROAD, HUNTINGDON, PE29 7DA, GB",
+                "heavy_goods_vehicles": "5",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "SNOWDON DRIVE, WINTERHILL, MILTON KEYNES, MK6 1AP, GB",
+                "heavy_goods_vehicles": "5",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "MONKSWOOD WAY, STEVENAGE, SG1 1XP, GB",
+                "heavy_goods_vehicles": "6",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "OUTER CIRCLE ROAD, LINCOLN, LN2 4HU, GB",
+                "heavy_goods_vehicles": "5",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "ST NICHOLAS RETAIL PARK, EDWARD BENEFER WAY, KING'S LYNN, PE30 2HY, GB",
+                "heavy_goods_vehicles": "5",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "LONDON ROAD, THETFORD, IP24 3HZ, GB",
+                "heavy_goods_vehicles": "3",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "NORTH QUAY RETAIL PARK, PETO WAY, LOWESTOFT, NR32 2ED, GB",
+                "heavy_goods_vehicles": "4",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "1 TURNPIKE CLOSE, NORWICH, NR6 5BD, GB",
+                "heavy_goods_vehicles": "4",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "WICKES, PRINCES GATE, HOWARD WAY, HARLOW, CM20 2SU, GB",
+                "heavy_goods_vehicles": "5",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "SUITE DC3, BOUNDARY WAY, HEMEL HEMPSTEAD, HP2 7EQ, GB",
+                "heavy_goods_vehicles": "40",
+                "trailers": "40"
+            },
+            {
+                "operating_centre": "WEEDON ROAD INDUSTRIAL ESTATE, WEEDON ROAD, NORTHAMPTON, NN5 5AL, GB",
+                "heavy_goods_vehicles": "3",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "OAKLAND INTERNATIONAL, EISMANN WAY, CORBY, NN17 5ZB, GB",
+                "heavy_goods_vehicles": "20",
+                "trailers": "40"
+            },
+            {
+                "operating_centre": "HANSON CONCRETE, SANDERS ROAD, FINEDON ROAD INDUSTRIAL ESTATE, WELLINGBOROUGH, NN8 4NL, GB",
+                "heavy_goods_vehicles": "2",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "HANSON CONCRETE, HICKS LANE, LONDON ROAD, PETERBOROUGH, PE7 0LL, GB",
+                "heavy_goods_vehicles": "1",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "CAMBRIDGE ROAD, MILTON, CAMBRIDGE, CB24 6AZ, GB",
+                "heavy_goods_vehicles": "1",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "THE CAUSEWAY, THORNEY, PETERBOROUGH, PE6 0QH, GB",
+                "heavy_goods_vehicles": "1",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "HANSONS, RIVER END ROAD, BOXMOOR, HEMEL HEMPSTEAD, HP3 9AJ, GB",
+                "heavy_goods_vehicles": "2",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "RDC 240, EDINBURGH WAY, HARLOW, CM20 2FE, GB",
+                "heavy_goods_vehicles": "95",
+                "trailers": "100"
+            },
+            {
+                "operating_centre": "WICKES, RIVERFIELD DRIVE, BEDFORD, MK41 0UE, GB",
+                "heavy_goods_vehicles": "4",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "WICKES, CROWN WAY, RUSHDEN, NN10 6BT, GB",
+                "heavy_goods_vehicles": "3",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "WICKES, UNIT A, GONERBY ROAD, GONERBY HILL FOOT, GRANTHAM, NG31 8HX, GB",
+                "heavy_goods_vehicles": "2",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "WICKES, WEST STREET, BOSTON, PE21 8QN, GB",
+                "heavy_goods_vehicles": "2",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "UNIT E, Q E D DISTRIBUTION PARK, PURFLEET BY PASS, PURFLEET, RM19 1NA, GB",
+                "heavy_goods_vehicles": "40",
+                "trailers": "20"
+            },
+            {
+                "operating_centre": "WICKES CENTURY DRIVE, BRAINTREE, CM77 8YL, GB",
+                "heavy_goods_vehicles": "4",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "GREEN LANE, HEMEL HEMPSTEAD, HP2 7HZ, GB",
+                "heavy_goods_vehicles": "30",
+                "trailers": "60"
+            },
+            {
+                "operating_centre": "WICKES, UNIT D, NORTHFIELD RETAIL PARK, NORTHFIELD AVENUE, KETTERING, NN16 9TS, GB",
+                "heavy_goods_vehicles": "2",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "BUCKINGHAM HILL ROAD, LINFORD, SS17 0PY, GB",
+                "heavy_goods_vehicles": "15",
+                "trailers": "15"
+            },
+            {
+                "operating_centre": "PARK 3, DP WORLD LONDON GATEWAY TRUCK PARK, OCEAN BOULEVARD, STANFORD LE HOPE, ESSEX, SS17 9FA, GB",
+                "heavy_goods_vehicles": "65",
+                "trailers": "65"
+            },
+            {
+                "operating_centre": "BRICKFIELDS WAY, PURDEYS INDUSTRIAL ESTATE, ROCHFORD, SS4 1LX, GB",
+                "heavy_goods_vehicles": "1",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "LILIPUT ROAD, BRACKMILLS INDUSTRIAL ESTATE, NORTHAMPTON, NN4 7DT, GB",
+                "heavy_goods_vehicles": "25",
+                "trailers": "50"
+            },
+            {
+                "operating_centre": "NUSTAR TERMINAL, LONDON ROAD, GRAYS, ESSEX, RM17 6YU, GB",
+                "heavy_goods_vehicles": "17",
+                "trailers": "17"
+            },
+            {
+                "operating_centre": "JAMES KEMBALL CONTAINER SERVICES, THE HOLDING CENTRE, CLICKETT HILL ROAD, FELIXSTOWE, IP11 4AY, GB",
+                "heavy_goods_vehicles": "30",
+                "trailers": "30"
+            },
+            {
+                "operating_centre": "1 RAT LANE, RAYLEIGH, SS6 7TS, GB",
+                "heavy_goods_vehicles": "3",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "RUTHERFORD WAY, PARK FARM SOUTH, WELLINGBOROUGH, NN8 6AQ, GB",
+                "heavy_goods_vehicles": "150",
+                "trailers": "100"
+            },
+            {
+                "operating_centre": "WEETABIX LIMITED, WEETABIX MILLS, BURTON LATIMER, KETTERING, NN15 5JR, GB",
+                "heavy_goods_vehicles": "35",
+                "trailers": "60"
+            },
+            {
+                "operating_centre": "RAIL FREIGHT TERMINAL, ARUNDEL DRIVE, CASTLE DONNINGTON, DE74 2HJ, GB",
+                "heavy_goods_vehicles": "10",
+                "trailers": "20"
+            },
+            {
+                "operating_centre": "HANSON CONCRETE, ROCKINGHAM ROAD, MARKET HARBOROUGH, LE16 7QE, GB",
+                "heavy_goods_vehicles": "2",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "WATSON PETROLEUM LTD, NOTTINGHAM ROAD, LOUTH, LN11 0WB, GB",
+                "heavy_goods_vehicles": "6",
+                "trailers": "6"
+            },
+            {
+                "operating_centre": "WICKES BUILDING SUPPLIES LTD, 2A ROSHILI ROAD, NORTHAMPTON, NN4 7JE, GB",
+                "heavy_goods_vehicles": "40",
+                "trailers": "40"
+            },
+            {
+                "operating_centre": "HANSON READY MIXED CONCRETE, WORLINGTON QUARRY, BAY FARM, RED LODGE, ELMS ROAD, WORLINGTON, IP28 6BS, GB",
+                "heavy_goods_vehicles": "3",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "UNIT 9 MARSTON GATE, BADGERS RISE, RIDGMONT, BEDFORD, MK43 0YL, GB",
+                "heavy_goods_vehicles": "20",
+                "trailers": "4"
+            },
+            {
+                "operating_centre": "UNIT 2, BROCKLEY WAY, RIDGMONT, BEDFORD, MK43 0ZY, GB",
+                "heavy_goods_vehicles": "15",
+                "trailers": "10"
+            },
+            {
+                "operating_centre": "OLD TAXIWAY ALLWAYS GARAGE SERVICES, BUILDING 7710 AND PLOT 5040, ALCONBURY AIRFIELD, HUNTINGDON, PE28 4WX, GB",
+                "heavy_goods_vehicles": "2",
+                "trailers": "2"
+            },
+            {
+                "operating_centre": "IKEA LAKESIDE, LAKESIDE RETAIL PARK, HERON WAY, GRAYS, RM20 3WJ, GB",
+                "heavy_goods_vehicles": "5",
+                "trailers": "1"
+            },
+            {
+                "operating_centre": "AYLESTONE TRANSPORT LIMITED, BROUGHTON WAY, BROUGHTON ASTLEY, LEICESTER, LE9 6EX, GB",
+                "heavy_goods_vehicles": "2",
+                "trailers": "2"
+            },
+            {
+                "operating_centre": "MAXI READYMIX LIMITED., UNIT 22 ENDERBY ROAD INDUSTRIAL ESTATE, WHETSTONE, LEICESTER, LE8 6HZ, GB",
+                "heavy_goods_vehicles": "2",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "MITCHELL ROAD, CORBY, NN17 5QT, GB",
+                "heavy_goods_vehicles": "50",
+                "trailers": "100"
+            },
+            {
+                "operating_centre": "LATITUDE 186, ATKINSON WAY, MAGNA PARK, MILTON KEYNES, MK17 8FF, GB",
+                "heavy_goods_vehicles": "6",
+                "trailers": "47"
+            },
+            {
+                "operating_centre": "RUFFINO LTD, THE REACH LORRY PARK, FIDDLERS REACH, HEDLEY AVENUE, GRAYS, RM20 4EL, GB",
+                "heavy_goods_vehicles": "25",
+                "trailers": "25"
+            },
+            {
+                "operating_centre": "47 CASWELL ROAD, BRACKMILLS INDUSTRIAL ESTATE, NORTHAMPTON, NN4 7PW, GB",
+                "heavy_goods_vehicles": "40",
+                "trailers": "40"
+            },
+            {
+                "operating_centre": "3 MERCURY DRIVE, BRACKMILLS INDUSTRIAL ESTATE, NORTHAMPTON, NN4 7PN, GB",
+                "heavy_goods_vehicles": "30",
+                "trailers": "20"
+            },
+            {
+                "operating_centre": "PRIMARK STORES LTD, ISLIP DEPOT DISTRIBUTION CENTRE, KETTERING ROAD, ISLIP, KETTERING, NN14 3JW, GB",
+                "heavy_goods_vehicles": "150",
+                "trailers": "50"
+            },
+            {
+                "operating_centre": "IKEA, HUNTINGDON ROAD, THRAPSTON, KETTERING, NN14 4QT, GB",
+                "heavy_goods_vehicles": "200",
+                "trailers": "129"
+            },
+            {
+                "operating_centre": "UNIT E ICON HARLOW, THIRD AVENUE, HARLOW, CM19 5AW, GB",
+                "heavy_goods_vehicles": "30",
+                "trailers": "20"
+            },
+            {
+                "operating_centre": "WICKES STORES DISTRIBUTION CENTRE, SALTHOUSE ROAD, BRACKMILLS ESTATE, NORTHAMPTON, NN5 7EX, GB",
+                "heavy_goods_vehicles": "11",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "WICKES BUILDING SUPPLIES, SANDOWN ROAD, WISBECH, PE14 0SL, GB",
+                "heavy_goods_vehicles": "3",
+                "trailers": "0"
+            },
+            {
+                "operating_centre": "CYGNIA LOGISTICS, GOWERTON ROAD, BRACKMILLS INDUSTRIAL ESTATE, NORTHAMPTON, NN4 7BW, GB",
+                "heavy_goods_vehicles": "15",
+                "trailers": "5"
+            },
+            {
+                "operating_centre": "SAINSBURY'S DISTRIBUTION CENTRE, NORMANDY WAY, HODDESDON, EN11 1EZ, GB",
+                "heavy_goods_vehicles": "89",
+                "trailers": "185"
+            },
+            {
+                "operating_centre": "DISTRIBUTION CENTRE, PINDAR ROAD, HODDESDON, EN11 0DG, GB",
+                "heavy_goods_vehicles": "0",
+                "trailers": "35"
+            },
+            {
+                "operating_centre": "DAVENTRY RAIL FREIGHT TERMINAL, BRASSEY WAY, KILSBY, RUGBY, CV23 8BQ, GB",
+                "heavy_goods_vehicles": "70",
+                "trailers": "200"
+            }
+        ],
+        "transport_managers_list": [
+            "JAYNE BELLAMY",
+            "GARY JAMES DONOGHUE",
+            "TERRY PATRICK JOHNSON",
+            "MARCUS ALAN TAYLOR",
+            "ROSS WILLIAM IRVINE",
+            "LAURA MOY THOMAS",
+            "PETER ANDREW HARROD",
+            "MATTHEW IRONS",
+            "GAVIN HALES",
+            "DANIEL JAMES JONES",
+            "THOMAS KIRKBY-STROUD",
+            "LESLIE MOFFATT",
+            "CALLUM ADAM ROBERTS",
+            "JONATHAN MARK HAWKINS",
+            "LAWSON BAKER",
+            "LAURA NOLAN",
+            "JACOB WILLIAM LEE",
+            "GRAHAM JOHN WILEBORE",
+            "GARETH DAVID LOCK",
+            "MICHELA PECCOLO",
+            "NEIL STUART MIDGLEY"
+        ],
+        "related_licences_dic": [
+            {
+                "licence_number": "OM0023959",
+                "licence_status": "Valid",
+                "continuation_date": "30/06/2027"
+            },
+            {
+                "licence_number": "OH0000468",
+                "licence_status": "Valid",
+                "continuation_date": "31/05/2025"
+            },
+            {
+                "licence_number": "OK0169630",
+                "licence_status": "Valid",
+                "continuation_date": "31/05/2028"
+            },
+            {
+                "licence_number": "OG0074211",
+                "licence_status": "Valid",
+                "continuation_date": "31/08/2027"
+            },
+            {
+                "licence_number": "OD0173163",
+                "licence_status": "Valid",
+                "continuation_date": "31/05/2024"
+            },
+            {
+                "licence_number": "OB0192410",
+                "licence_status": "Valid",
+                "continuation_date": "31/01/2024"
+            },
+            {
+                "licence_number": "OC0043474",
+                "licence_status": "Valid",
+                "continuation_date": "31/03/2025"
+            }
+        ]
+    }
+]

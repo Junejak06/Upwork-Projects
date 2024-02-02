@@ -1,0 +1,35 @@
+﻿{
+   "chrome_extension_description": {
+      "message": "Search goods on Aliexpress by image"
+   },
+   "chrome_extension_name": {
+      "message": "Aliexpress Search by image"
+   },
+   "chrome_extension_short_name": {
+      "message": "Aliexpress Search by image"
+   },
+      "title": {
+      "message": "Aliexpress Search by image"
+   },
+      "description": {
+      "message": "Aliexpress Search by image"
+   },
+
+    "menu_name": {
+      "message": "Search goods on Aliexpress by this image"
+   },
+"search_similar": {
+      "message": "Find similar products"
+   },    
+   "search_for": {
+      "message": "Link to image or keywords"
+   },
+     "language": {
+      "message": "en"
+   },
+
+   "lang": {
+      "message": "en"
+   }
+
+}

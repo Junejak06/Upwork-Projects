@@ -1,0 +1,17 @@
+beautifulsoup4
+boto3
+docx2txt
+feedparser
+imaplib2
+openai
+pandas
+pdf2image
+pisa
+pymongo
+PyPDF2
+python-docx
+reportlab
+selenium
+statistics
+xhtml2pdf
+

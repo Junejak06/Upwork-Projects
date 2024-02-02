@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "AliExpress Search By Image"
+  },
+  "appDescription": {
+    "message": "Search products on AliExpress by image. Does not redirect to Google like other extensions! Right click and search!"
+  }
+}

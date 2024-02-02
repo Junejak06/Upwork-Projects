@@ -1,0 +1,35 @@
+﻿{
+   "chrome_extension_description": {
+      "message": "Поиск товаров на Алиэкспресс по картинке, Вы сможете найти похожие и аналогичные товары по фото с любого сайта"
+   },
+   "chrome_extension_name": {
+      "message": "Алиэкспресс поиск по картинке"
+   },
+   "chrome_extension_short_name": {
+      "message": "Алиэкспресс поиск по картинке"
+   },
+      "title": {
+      "message": "Алиэкспресс поиск по картинке"
+   },
+      "description": {
+      "message": "Алиэкспресс поиск по картинке"
+   },
+
+    "menu_name": {
+      "message": "Найти товар на Алиэкспресс по этой картинке"
+   },
+"search_similar": {
+      "message": "Найти похожие товары"
+   },
+    "search_for": {
+      "message": "Введите ссылку на картинку или ключевое слово"
+   },
+
+      "language": {
+      "message": "ru"
+   },
+
+   "lang": {
+      "message": "ru"
+   }
+}
